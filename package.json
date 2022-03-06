@@ -1,0 +1,23 @@
+{
+  "name": "kuvaprosessori",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulp.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oskarijarvelin/kuvaprosessori.git"
+  },
+  "author": "Oskari Järvelin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oskarijarvelin/kuvaprosessori/issues"
+  },
+  "homepage": "https://github.com/oskarijarvelin/kuvaprosessori#readme",
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-webp": "^4.0.1"
+  }
+}
