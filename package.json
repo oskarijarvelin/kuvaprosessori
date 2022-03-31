@@ -5,7 +5,8 @@
   "main": "gulp.js",
   "scripts": {
     "test": "gulp",
-    "gulp": "gulp"
+    "gulp": "gulp",
+    "2022": "gulp 2022"
   },
   "repository": {
     "type": "git",
